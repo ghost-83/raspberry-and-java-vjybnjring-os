@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="arduino-LCD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/arduino_LCD_jar</output-path>
+    <root id="archive" name="arduino-LCD.jar">
+      <element id="module-output" name="arduino-LCD" />
+      <element id="module-test-output" name="arduino-LCD" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.10.4/jSerialComm-2.10.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
